@@ -1,0 +1,31 @@
+/*
+  Styles
+*/
+
+/* For all disks */
+.disk {
+  border: 1px solid #000;
+}
+
+/* For specific disks */
+.disk-1 {
+  background: #FF4D49;
+}
+.disk-2 {
+  background: #61FF62;
+}
+.disk-3 {
+  background: #7584FF;
+}
+
+/* For specific towers */
+.tower-1 {
+  border-top: 1px solid #FF4D49;
+}
+.tower-2 {
+  border-top: 1px solid #61FF62;
+}
+.tower-3 {
+  border-top: 1px solid #7584FF;
+}
+
