@@ -64,4 +64,3 @@ class TowerOfHanoi
     to.empty? || from.first < to.first
   end
 end
-
